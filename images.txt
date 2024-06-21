@@ -1,3 +1,4 @@
 nginx:latest
 tensorflow/tensorflow
 mysql
+mongo
