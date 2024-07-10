@@ -4,3 +4,4 @@ mysql
 mongo
 redis
 linuxserver/ffmpeg
+jrottenberg/ffmpeg
