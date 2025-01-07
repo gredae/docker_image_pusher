@@ -6,3 +6,5 @@ redis
 linuxserver/ffmpeg
 jrottenberg/ffmpeg
 fedora
+elasticsearch:6.7.2
+kibana:6.7.2
