@@ -13,3 +13,4 @@ kibana:8.4.3
 logstash:8.4.3
 elastic/filebeat:8.4.3
 logstash:8.4.3
+open-webui/open-webui
