@@ -1,1 +1,1 @@
-gvenzl/oracle-free:slim
+library/python:3.11.8-slim
