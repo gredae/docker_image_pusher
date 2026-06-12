@@ -15,3 +15,4 @@ elastic/filebeat:8.4.3
 logstash:8.4.3
 ghcr.io/open-webui/open-webui:main
 moby/buildkit:buildx-stable-1
+gvenzl/oracle-free:slim
